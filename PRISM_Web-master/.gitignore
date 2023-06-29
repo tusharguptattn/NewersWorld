@@ -1,0 +1,15 @@
+/.idea/
+/target/
+/test-output/
+/logs/
+.classpath
+.project
+#
+/Web_Automation/
+/Reports/
+/Screenshots_FailedTests/
+WebAutomation.iml
+/src/main/main.iml
+/Automation Reports/
+/applog.txt
+/application.html

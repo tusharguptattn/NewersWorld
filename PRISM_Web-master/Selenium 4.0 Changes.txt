@@ -1,0 +1,17 @@
+New Changes done in selenium 4.0 based framework
+
+-Added Webdriver Manager Bonigracia Library
+
+-Added Relative Locators example
+
+-Add Window and Tab Handler Examples
+
+-Action Class upgradation
+
+-Remove Eventfiring Webdriver
+
+-Update desire capabilities to chrome/firefox options
+
+-Upgrade classes methods for selenium grid implementation
+
+-Chrome devTools Method Added

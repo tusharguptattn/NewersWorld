@@ -1,0 +1,20 @@
+/.idea/
+/target/
+/test-output/
+/logs/
+.classpath
+.project
+#
+/Web_Automation/
+/Reports/
+/Screenshots_FailedTests/
+WebAutomation.iml
+/src/main/main.iml
+/Automation Reports/
+/PRISM_HelpDoc
+/report_logs/
+/reportportal.lock
+/reportportal.sync
+/.settings
+/.metadata
+/bin

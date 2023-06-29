@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="1">
+	<listeners>
+		<listener
+				class-name="com.ttn.WebAutomation.listeners.MyProjectListener" />
+<listener class-name="com.epam.reportportal.testng.ReportPortalTestNGListener" />
+	</listeners>
+	
+    <parameter name="Environment" value="${Environment}" />
+	<parameter name="browser" value="chrome" />
+	<!--
+	<test name="Test safari">
+		
+		<parameter name="packageName" value="Running on safari" />
+		<parameter name="gridBrowser" value="safari"/>
+		
+		<classes>
+			<class name="com.ttn.WebAutomation.tests.msil." />
+
+
+		</classes>
+	</test>
+	-->
+	<test name="Test Chrome">
+		<parameter name="packageName" value="Running on chrome" />
+		<parameter name="gridBrowser" value="chrome"/>
+		
+		
+        <groups>	
+		<run>			
+   	   <include name="${TestingType}" />  	    
+   	    <!--<include name="regression" />-->
+        </run>	
+       	</groups>
+		<classes>
+
+
+
+
+		</classes>
+	</test>
+</suite> <!-- Suite -->

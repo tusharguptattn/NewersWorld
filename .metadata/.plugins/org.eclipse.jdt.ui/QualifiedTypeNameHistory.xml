@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.openqa.grid.web.servlet.handler.SeleniumBasedRequest"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.seleniumUtils.CommonUtility"/>
+    <fullyQualifiedTypeName name="org.mockito.exceptions.Reporter"/>
+    <fullyQualifiedTypeName name="org.testng.Reporter"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.base.BrowserFactory"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.deser.Deserializers.Base"/>
+    <fullyQualifiedTypeName name="java.lang.ClassCastException"/>
+    <fullyQualifiedTypeName name="java.lang.ThreadLocal"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeMethod"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.tests.NW.LoginTest"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.utillib.GetPropertyValues"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.pageObjects.Homepage"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.Alert"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.seleniumUtils.WaitStatementLib"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.seleniumUtils.SeleniumHelper"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.pageObjects.SearchResultFor"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.pageObjects.UEV"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.pageObjects.LoginPage"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.base.BaseLib"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.pageObjects.LogTicket"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.remote.server.handler.SendKeys"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.base.TwoFA"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.tests.NW.HomePageTest"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.tests.NW.SearchResultFuncTest"/>
+    <fullyQualifiedTypeName name="com.ttn.WebAutomation.tests.NW.UEVTest"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.WebDriverWait"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>
